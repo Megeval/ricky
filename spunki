@@ -1,26 +1,4 @@
 <html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Minecraft</title>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            background-color: #111111;
-        }
-        .sprunki-text {
-            font-size: 100px;
-            font-family: 'Arial', sans-serif;
-            color: #111111;
-            text-shadow: 2px 2px 4px #FFA500;
-        }
-    </style>
-</head>
-
 <body>	
     <table border="0" align="center">
         <tr>
